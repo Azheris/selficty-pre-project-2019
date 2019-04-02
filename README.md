@@ -14,6 +14,7 @@ The request refresh every 2 minutes if the page isn't reloaded manually.
 
 * [NPM] - Package manager for JS and the world's largest software registry
 * [Node] - As an asynchronous event driven Javascript runtime, Node is designed to build scalable network applications.
+* [Docker] - A platform that create and run application inside containers
 
 ### JCDecaux API
 
@@ -45,3 +46,4 @@ Guilhem AMARDEILH
 [NPM]: <https://www.npmjs.com/>
 [React]: <https://reactjs.org/>
 [Material-UI]: <https://material-ui.com/>
+[Docker]: <https://www.docker.com/>
