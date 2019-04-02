@@ -34,7 +34,7 @@ $ docker-compose build && docker-compose up
 
 ### Access
 
-The applicaiton listen to the local port **3000** 
+The application listen to the local port **3000** 
 
 http://localhost:3000
 
