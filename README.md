@@ -26,10 +26,14 @@ The request refresh every 2m if the page isn't reloaded manually.
 ```sh
 $ npm start
 ```
+or
+```sh
+$ docker-compose build && docker-compose up
+```
 
 **Authors**
 
 Guilhem AMARDEILH
 
-    [Node]: <http://nodejs.org>
-    [NPM]: <https://www.npmjs.com/>
+[Node]: <http://nodejs.org>
+[NPM]: <https://www.npmjs.com/>
