@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/selfcity-pre-project-2019/precache-manifest.e99ae5d7b7872a12f6d934286ddf1e7e.js"
+  "/selficty-pre-project-2019/precache-manifest.f01df29380ac6b83232c797648e962d3.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/selfcity-pre-project-2019/index.html", {
+workbox.routing.registerNavigationRoute("/selficty-pre-project-2019/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
